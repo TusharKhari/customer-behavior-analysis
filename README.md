@@ -19,12 +19,16 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ##  Deliverables
 
-<img width="1134" height="561" alt="problem statement" src="https://github.com/user-attachments/assets/2dd81f46-fa37-4aca-8216-9261c61364d2" />
+<img width="1117" height="578" alt="Deliverables" src="https://github.com/user-attachments/assets/29d1fd1c-dc57-4b19-a255-fd9bef05593a" />
+
 
 ## Problem Statement
 
 <img width="1134" height="561" alt="problem statement" src="https://github.com/user-attachments/assets/b601e660-1f5e-4b6c-8c67-19b4e90d364f" />
 
+## Work Flow
+
+<img width="4872" height="2656" alt="work-flow" src="https://github.com/user-attachments/assets/e3d99f09-4146-4fa4-9723-0f2387440908" />
 
 
 ## 🛠️ How to Use This Project
