@@ -1,6 +1,9 @@
 
 # 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project using DataBricks
 
+## Skilss
+Python, Sql, PowerBi, DataBricks
+
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 
@@ -68,7 +71,12 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
       - Create project report
    
       - Build presentation deck using Gamma AI
-  
+
+
+## Report At Glance
+
+<img width="1920" height="1080" alt="report" src="https://github.com/user-attachments/assets/819a56c5-ba24-42fd-9d21-c8f95e3ee71b" />
+
 
 ## 📜 License
 
